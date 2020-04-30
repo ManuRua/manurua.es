@@ -1,29 +1,7 @@
-# Gridsome Blog Starter
+# Backend Engineer | [manurua.es](https://manurua.es)
 
-> A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
+> 👨🏼‍💻 Tech Lead at @footters<br/>⌨️ { Code lover } #Golang #NodeJS #JS<br/>🚀 #TeamsManagement | #Remote | #CleanArchitecture | #Alexa | #CreativeCode
 
-## Features
-- Beautiful and simple design.
-- Markdown for content.
-- Tags support.
-- Dark / Light toggle.
-- CSS variables, SCSS & BEM for styling.
-- 100, 100, 100, 100 score on Google Lighthouse.
-- Uses same front-matter fields as Dev.to.
-
-## Demo URL
-
-https://gridsome-starter-blog.netlify.com
-
-## Install
-
-### 1. Install Gridsome CLI tool if you don't have
-
-`npm install --global @gridsome/cli`
-
-### 2. Install this starter
-
-1. `gridsome create my-gridsome-site https://github.com/gridsome/gridsome-starter-blog.git`
-2. `cd my-gridsome-site` to open folder
-3. `gridsome develop` to start local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+[![made-with-gridsome](https://img.shields.io/badge/Made%20With-Gridsome-1D835C.svg?style=plastic&logo=gridsome)](https://gridsome.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](http://makeapullrequest.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f344ecd2-27e6-4220-85d4-cf01a3bb97c3/deploy-status)](https://app.netlify.com/sites/manurua/deploys)

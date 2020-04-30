@@ -1,6 +1,10 @@
 {
-  "name": "portfolio-blog-website",
+  "name": "manurua.es",
+  "description": "Personal website from Manu Rúa. Blog about coder & entrepreneur lifestyle.",
   "private": true,
+  "author": "Manuel Rúa <manuruaco@gmail.com>",
+  "license": "MIT",
+  "version": "1.0.1",
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
